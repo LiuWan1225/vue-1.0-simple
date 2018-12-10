@@ -32,8 +32,11 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 ### 准备工作
 
 > 核心框架 vue.js
+
 > 依赖环境 Node.js, Vue官方脚手架：vue-cli
+
 > webpack 模块化打包工具， 使用vue-cli初始项目的时候， 选择webpack作为我们的打包工具
+
 > vue init webpack project-name
 
 ### 目录说明
